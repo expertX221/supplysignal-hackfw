@@ -1,5 +1,11 @@
 # SupplySignal — Supplier Exception Desk
 
+![SupplySignal project cover](media/supplysignal-cover.jpg)
+
+[Live app](https://supplysignal-hackfw.vercel.app/) · [Screen recording](media/supplysignal-screen-recording.mp4) · [Submission write-up](DEVPOST.md)
+
+![Actual SupplySignal dashboard](media/02-live-dashboard.jpg)
+
 HackFW track: Supplier Relationship Management.
 
 A browser-based prototype for a supplier operations desk. It imports purchase-order confirmations, flags late and short deliveries, connects each line to a production job, and prepares editable supplier follow-up drafts. A human records the action and exports a plan.
@@ -32,7 +38,7 @@ Add read-only ERP ingestion, inventory-aware BOM impact, authenticated shared st
 
 ## Submission work remaining
 
-Create a public GitHub repository, record the demo, register participants in the Fort Worth talent network, and confirm Demo Day attendance. Hosting alone does not satisfy the public repository requirement.
+The public GitHub repository, Vercel deployment, project cover, screenshots, and screen recording are prepared. Participants still need to confirm talent registration, Demo Day attendance, final video hosting, and Devpost submission.
 
 ## Dashboard update
 
