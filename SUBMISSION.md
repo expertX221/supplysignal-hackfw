@@ -32,4 +32,4 @@ Read-only ERP ingestion, source-linked AI extraction from supplier emails, inven
 - Confirm eligibility and any changes to track requirements with the organizer. The pasted brief lists five lanes but its submission checklist names only three tracks.
 
 ## Media
-The project cover is an AI-generated illustration of a manufacturing supplier network. Screenshots show the actual app. The walkthrough video is assembled from captured app screens with captions; it is not a continuous real-time recording.
+The project cover is an AI-generated illustration of a manufacturing supplier network. Screenshots show the actual app. The screen recording captures actual browser interactions at a low frame rate (approximately 2.7 captured frames per second), encoded at 12 frames per second while preserving capture timing. It has no narration.
