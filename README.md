@@ -2,7 +2,7 @@
 
 ![SupplySignal project cover](media/supplysignal-cover.jpg)
 
-[Live app](https://supplysignal-hackfw.vercel.app/) · [Screen recording](media/supplysignal-screen-recording.mp4) · [Submission write-up](DEVPOST.md)
+[Live app](https://supplysignal-hackfw.vercel.app/) · [Screen recording](media/supplysignal-demo.mp4) · [Submission write-up](DEVPOST.md)
 
 ![Actual SupplySignal dashboard](media/02-live-dashboard.jpg)
 
