@@ -1,0 +1,5 @@
+# Cover image provenance
+
+Generated using the built-in Imagegen tool. This is promotional artwork, not a screenshot or a depiction of an actual customer facility.
+
+Prompt: “Create a premium wide landscape hackathon project cover for SupplySignal, a supplier exception desk for manufacturing. Sophisticated editorial 3D illustration: a miniature precision factory and warehouse, orderly cream industrial buildings, cargo pallets and metal components connected by fine luminous lime-green supply routes, a small amber warning node and reassuring green signal nodes. Deep forest green background, warm cream surfaces, sage and pale lime accents. Soft cinematic studio lighting, tactile architectural model materials, refined restrained composition, crisp details. Left third has spacious typography, right two thirds contains the isometric industrial network. Text verbatim: ‘SupplySignal’ with subtitle ‘Small signals. Stronger operations.’ Small footer text ‘Supplier Exception Desk’. Beautiful modern sans serif typography, clear readable text, balanced layout, polished professional project presentation. No fake dashboard screens, no extra text, no watermark.”
